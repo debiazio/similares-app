@@ -1,7 +1,7 @@
 {
   "vendor": "madumfm2",
   "name": "similares-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "similares-app",
   "description": "App para fazer os produtos similares aparecerem",
   "builders": {
