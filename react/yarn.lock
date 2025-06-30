@@ -3961,10 +3961,6 @@ lz-string@^1.4.4:
   resolved "https://registry.yarnpkg.com/lz-string/-/lz-string-1.4.4.tgz#c0d8eaf36059f705796e1e344811cf4c498d3a26"
   integrity sha512-0ckx7ZHRPqb0oUm8zNr+90mtf9DQB60H1wMCjBtfi62Kl3a7JbHob6gA2bC+xRvZoOL+1hzUK8jeuEIQE8svEQ==
 
-"madumfm2.bundle@https://dev2madu--madumfm2.myvtex.com/_v/private/typings/linked/v1/madumfm2.bundle@0.0.7+build1748007424/public/@types/madumfm2.bundle":
-  version "0.0.7"
-  resolved "https://dev2madu--madumfm2.myvtex.com/_v/private/typings/linked/v1/madumfm2.bundle@0.0.7+build1748007424/public/@types/madumfm2.bundle#a3ce78b7eb6af310c507872d0beeac6ba56f1275"
-
 make-dir@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.1.0.tgz#415e967046b3a7f1d185277d84aa58203726a13f"
@@ -5341,6 +5337,14 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
+"vtex.add-to-cart-button@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.add-to-cart-button@0.30.2/public/@types/vtex.add-to-cart-button":
+  version "0.30.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.add-to-cart-button@0.30.2/public/@types/vtex.add-to-cart-button#460e38a0fca759d2eba382ebe6cd92d6c645b0b6"
+
+"vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.1/public/@types/vtex.css-handles":
+  version "1.0.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.1/public/@types/vtex.css-handles#9444e64afad49e3ace3461f170b7d28f29b78d07"
+
 "vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.1/public/@types/vtex.product-context":
   version "0.10.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.1/public/@types/vtex.product-context#86ceba68085420edcf54749f07e51a257d2e5d94"
@@ -5349,9 +5353,13 @@ verror@1.10.0:
   version "8.136.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.136.1/public/@types/vtex.render-runtime#f163acbdb0fcc9be2065a34eb4fc797093f6d0ce"
 
-"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.68.1/public/@types/vtex.search-graphql":
-  version "0.68.1"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.68.1/public/@types/vtex.search-graphql#80f9f29f0791cdc1370553901f9959ad267b0f4f"
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.69.0/public/@types/vtex.search-graphql":
+  version "0.69.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.69.0/public/@types/vtex.search-graphql#a7aee08aba56d361496154b20e4f4f388ed9bf73"
+
+"vtex.styleguide@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.13/public/@types/vtex.styleguide":
+  version "9.146.13"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.13/public/@types/vtex.styleguide#f4ccbc54621bf5114ddd115b6032ae320f2eba55"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"
