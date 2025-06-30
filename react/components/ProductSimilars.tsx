@@ -4,10 +4,9 @@ import { useProduct } from 'vtex.product-context'
 import ProductSimilarsItem from './ProductSimilarsItem'
 import { Product } from 'vtex.product-context/react/ProductTypes'
 
-import GET_PRODUCTS from '../../graphql/product.gql'
+import GET_PRODUCTS from '../graphql/product.graphql'
 
-
-const Similares = () => {
+const ProductSimilars = () => {
     const productContext = useProduct() || null
 
     const { loading, error, data } = useQuery(GET_PRODUCTS, {
@@ -27,4 +26,4 @@ const Similares = () => {
     )
 }
 
-export default Similares
+export default ProductSimilars

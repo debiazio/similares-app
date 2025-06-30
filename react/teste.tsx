@@ -1,3 +1,8 @@
-import Similares from "./components/Similares";
+import React from 'react'
+import ProductSimilarComponent from './components/ProductSimilars'
 
-export default Similares
+const ProductSimilars = () => {
+    return <ProductSimilarComponent />
+}
+
+export default ProductSimilars
